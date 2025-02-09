@@ -12,8 +12,7 @@ https://github.com/user-attachments/assets/0c658f58-13cb-4136-931c-1edccb99f1ad
 
 左下角是您现在的分数。右下角是您的历史最高分，可以在主界面查看。
 
-<video src='image/WeChat_20250209151658.mp4'>
-</video>
+https://github.com/user-attachments/assets/4f2e96ca-000a-4216-8cf4-03a252ab43f6
 
 我们还准备了游戏说明，您可以通过按键2进行查阅。
 
